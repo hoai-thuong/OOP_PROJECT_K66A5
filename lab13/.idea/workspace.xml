@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bdaee9f-bfbb-46dc-b10d-6c95a7f5244d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/RoundedRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/RoundedShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/RoundedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/demoprogram/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/ApplicationConfigurator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/MacCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/WindowsCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/abstractfactory/pseudocode/WindowsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/demoprogram/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/demoprogram/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/demoprogram/CallingClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/demoprogram/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/demoprogram/FruitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/demoprogram/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/pseudocode/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/pseudocode/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/pseudocode/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/pseudocode/HTMLButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/pseudocode/WebDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/pseudocode/WindowDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/factorymethod/pseudocode/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/demoprogram/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/demoprogram/HexaObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/demoprogram/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/demoprogram/ObserverPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/demoprogram/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/demoprogram/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/pseudocode/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/pseudocode/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/pseudocode/EmailAlertsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/pseudocode/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/pseudocode/EventManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../designpatern2designpaternn/src/observer/pseudocode/LoggingListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hehe/src/voxinhdep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/CarManualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/GPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/pseudocode/TripComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/builder/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/AbstractComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/BaseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/ConcreteComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/ConcreteDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/Olives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/ThickcrustPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/ThincrustPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/DinnerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/DinnerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/employee/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/employee/EmployeeIterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/employee/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/employee/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/icecream/ChocolateIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/icecream/HoneyToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/icecream/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/icecream/IceCreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/icecream/NutsToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/icecream/StrawberryIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/icecream/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/icecream/VanillaIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/shape/DecoratorPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/shape/RedShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/demoprogram/shape/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/pseudocode/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/pseudocode/CompressionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/pseudocode/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/pseudocode/DataSourceDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/pseudocode/EncryptionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/pseudocode/FileDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/demoprogram/Iterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/demoprogram/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/demoprogram/IteratorPatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/demoprogram/ProductCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/FacebookIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/LinkedIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/LinkedInIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/ProfileIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/SocialNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/SocialNetworkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/pseudocode/SocialSpammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Laravel_project/curd/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laravel_project/curd/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Laravel_project/curd/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laravel_project/curd/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deha/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deha/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GK_OOP/src/Fraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/Bin2Dec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/Bin2Dec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/BoxPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/BoxPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/CaesarCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/CaesarCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/CheckHexStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/CheckHexStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/CountVowelsDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/CountVowelsDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/Hex2Dec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/Hex2Dec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/Oct2Dec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/Oct2Dec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/PhoneKeyPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/PhoneKeyPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W1/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W1/src/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/DexToHec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/DexToHec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/Exponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/Exponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/GradesStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/GradesStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/HexToBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/HexToBin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/MagicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/MagicSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointEleven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W2/src/TwoPointThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W3/src/TrigonometricSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_EXE_W3/src/TrigonometricSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W6/TestBigInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_EXE_W6/tesst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnOOP/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnOOP/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnOOP/src/CircleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnOOP/src/CircleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnOOP/src/TestCircleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnOOP/src/TestCircleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/vo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP OPP/class and object/site.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnPHP OPP/class and object/site.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP OPP/visibilty scope/site.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnPHP OPP/visibilty scope/site.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/.idea/learnPHP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/Associative Arrays /site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/building a basic cal/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/building a mad libs game/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/class, object and constructor/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/function/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/getter and setter/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/getting user input/.idea/getting user input.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/include php/article-head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/include php/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/including HTML/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/including HTML/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/including HTML/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/inheritance/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/object function/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/return statement/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/switch statement /site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnPHP/using checkbox/site.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thegioididongproject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thegioididongproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thegioididongproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../validate-form/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../validate-form/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../validate-form/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../validate-form/test.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IZxNEP3OuOz646zdvzLYNvvmTB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/hoaithuong/Documents/demo/lab13/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bdaee9f-bfbb-46dc-b10d-6c95a7f5244d" name="Changes" comment="" />
+      <created>1670402867136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670402867136</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
